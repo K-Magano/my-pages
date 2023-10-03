@@ -17,7 +17,6 @@ Practiced some fundamental methods of data analysis including but not limited to
   
 * Created a narrative for the data story, resulting in a polished, presentation, ready to share with stakeholders
 
-[This is my Google Slides presentation](<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyw_s2fj06y9udMUYU60ghvO9y9j0qANXJ9dTEdMqtvpPSDNEgCs7Mn5CVB_Pg4NTMzVqCPdmGOy6j/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
 
 ## Skills obtained :
 
