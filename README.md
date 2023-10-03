@@ -1,2 +1,2 @@
-# my-pages
-Trying git pages
+# An Introduction to Data Analytics
+
