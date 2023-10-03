@@ -19,6 +19,8 @@ Practiced some fundamental methods of data analysis including but not limited to
 
 [This is my Google Slides presentation](https://docs.google.com/presentation/d/e/2PACX-1vTyw_s2fj06y9udMUYU60ghvO9y9j0qANXJ9dTEdMqtvpPSDNEgCs7Mn5CVB_Pg4NTMzVqCPdmGOy6j/pub?start=false&loop=false&delayms=3000)
 
+![front page](../front.png)
+
 ## Skills obtained :
 
  * Communication skills: You will learn how to communicate your findings to both technical and non-technical audiences.
