@@ -27,4 +27,3 @@ Practiced some fundamental methods of data analysis including but not limited to
    
 * Problem-solving and critical-thinking skills
 
-https://docs.google.com/presentation/d/e/2PACX-1vTyw_s2fj06y9udMUYU60ghvO9y9j0qANXJ9dTEdMqtvpPSDNEgCs7Mn5CVB_Pg4NTMzVqCPdmGOy6j/pub?start=false&loop=false&delayms=3000
